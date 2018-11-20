@@ -1,0 +1,11 @@
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Debug\netcoreapp2.1\DC-Reader.deps.json
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Debug\netcoreapp2.1\DC-Reader.runtimeconfig.json
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Debug\netcoreapp2.1\DC-Reader.runtimeconfig.dev.json
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Debug\netcoreapp2.1\DC-Reader.dll
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Debug\netcoreapp2.1\DC-Reader.pdb
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Debug\netcoreapp2.1\DC-Reader.csprojAssemblyReference.cache
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Debug\netcoreapp2.1\DC-Reader.csproj.CoreCompileInputs.cache
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Debug\netcoreapp2.1\DC-Reader.AssemblyInfoInputs.cache
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Debug\netcoreapp2.1\DC-Reader.AssemblyInfo.cs
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Debug\netcoreapp2.1\DC-Reader.dll
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Debug\netcoreapp2.1\DC-Reader.pdb

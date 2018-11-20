@@ -1,0 +1,14 @@
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Release\netcoreapp2.1\win-x86\DC-Reader.exe
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Release\netcoreapp2.1\win-x86\DC-Reader.deps.json
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Release\netcoreapp2.1\win-x86\DC-Reader.runtimeconfig.json
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Release\netcoreapp2.1\win-x86\DC-Reader.runtimeconfig.dev.json
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Release\netcoreapp2.1\win-x86\DC-Reader.dll
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\bin\Release\netcoreapp2.1\win-x86\DC-Reader.pdb
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Release\netcoreapp2.1\win-x86\DC-Reader.csprojAssemblyReference.cache
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Release\netcoreapp2.1\win-x86\DC-Reader.csproj.CoreCompileInputs.cache
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Release\netcoreapp2.1\win-x86\DC-Reader.AssemblyInfoInputs.cache
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Release\netcoreapp2.1\win-x86\DC-Reader.AssemblyInfo.cs
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Release\netcoreapp2.1\win-x86\DC-Reader.dll
+C:\Users\ThinkM0rpH\Desktop\DC-Reader\DC-Reader\DC-Reader\obj\Release\netcoreapp2.1\win-x86\DC-Reader.pdb
