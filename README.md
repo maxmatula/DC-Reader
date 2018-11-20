@@ -8,7 +8,7 @@ When you download many of PSS recordings at the end of month you have 200-300 re
 is very uproductive thats why I came up with solution.
 
 
-Manual
+# Manual
 1. Type file extension.
 2. Type path to search files.
 3. Type path for output text file.
