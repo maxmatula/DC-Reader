@@ -9,7 +9,7 @@ is very uproductive thats why I came up with this solution.
 
 
 # Manual
-1. Type file extension.
+1. Type file extension. < for example asf without dot.
 2. Type path to top folder. < Function will search all files in src folder tree.
 3. Type path for output text file.
 4. Type output txt file name.
